@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Apr 24 14:22:38 2018
+# Process ID: 16372
+# Current directory: C:/Users/micro/Vivado EE316/project_6/project_6.runs/synth_2
+# Command line: vivado.exe -log top_module.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_module.tcl
+# Log file: C:/Users/micro/Vivado EE316/project_6/project_6.runs/synth_2/top_module.vds
+# Journal file: C:/Users/micro/Vivado EE316/project_6/project_6.runs/synth_2\vivado.jou
+#-----------------------------------------------------------
+source top_module.tcl -notrace

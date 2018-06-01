@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Mar 23 10:59:34 2018
+# Process ID: 16436
+# Current directory: C:/Users/micro/Vivado EE316/Lab 4/Lab 4.runs/impl_1
+# Command line: vivado.exe -log flight_attendent_call_system.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source flight_attendent_call_system.tcl -notrace
+# Log file: C:/Users/micro/Vivado EE316/Lab 4/Lab 4.runs/impl_1/flight_attendent_call_system.vdi
+# Journal file: C:/Users/micro/Vivado EE316/Lab 4/Lab 4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source flight_attendent_call_system.tcl -notrace
